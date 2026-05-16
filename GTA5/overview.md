@@ -1,12 +1,12 @@
 ---
-title: GTA5
+title: Overview
 description: Start here for GTA5 documentation, setup notes, and release updates.
 published: true
 date: 2026-05-17
 order: 10
 ---
 
-# GTA5
+# Overview
 
 This section is the entry point for GTA5 documentation.
 

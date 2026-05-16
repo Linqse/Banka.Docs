@@ -1,12 +1,12 @@
 ---
-title: Throne and Liberty
+title: Overview
 description: Start here for Throne and Liberty documentation, setup notes, and release updates.
 published: true
 date: 2026-05-17
 order: 10
 ---
 
-# Throne and Liberty
+# Overview
 
 This section is the entry point for Throne and Liberty documentation.
 

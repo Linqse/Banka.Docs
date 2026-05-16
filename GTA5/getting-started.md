@@ -1,12 +1,12 @@
 ---
-title: Getting Started with GTA5
+title: Getting Started
 description: Prepare the basic information needed before working with GTA5 documentation.
 published: true
 date: 2026-05-17
 order: 20
 ---
 
-# Getting Started with GTA5
+# Getting Started
 
 Use this page to prepare the information needed before configuring or documenting GTA5.
 

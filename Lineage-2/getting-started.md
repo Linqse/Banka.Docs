@@ -1,12 +1,12 @@
 ---
-title: Getting Started with Lineage 2
+title: Getting Started
 description: Prepare the basic information needed before working with Lineage 2 documentation.
 published: true
 date: 2026-05-17
 order: 20
 ---
 
-# Getting Started with Lineage 2
+# Getting Started
 
 Use this page to prepare the information needed before configuring or documenting Lineage 2.
 

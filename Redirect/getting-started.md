@@ -1,12 +1,12 @@
 ---
-title: Getting Started with Redirect
+title: Getting Started
 description: Prepare the basic information needed before working with Redirect documentation.
 published: true
 date: 2026-05-17
 order: 20
 ---
 
-# Getting Started with Redirect
+# Getting Started
 
 Use this page to prepare the information needed before configuring or documenting Redirect.
 

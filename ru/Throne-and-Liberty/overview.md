@@ -1,12 +1,12 @@
 ---
-title: Throne and Liberty
+title: Обзор
 description: Стартовый раздел документации Throne and Liberty со ссылками на настройку и обновления.
 published: true
 date: 2026-05-17
 order: 10
 ---
 
-# Throne and Liberty
+# Обзор
 
 Этот раздел является точкой входа в документацию Throne and Liberty.
 

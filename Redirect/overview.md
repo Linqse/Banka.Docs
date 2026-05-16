@@ -1,12 +1,12 @@
 ---
-title: Redirect
+title: Overview
 description: Start here for Redirect documentation, setup notes, and release updates.
 published: true
 date: 2026-05-17
 order: 10
 ---
 
-# Redirect
+# Overview
 
 This section is the entry point for Redirect documentation.
 

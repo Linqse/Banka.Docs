@@ -1,12 +1,12 @@
 ---
-title: Lineage 2
+title: Обзор
 description: Стартовый раздел документации Lineage 2 со ссылками на настройку и обновления.
 published: true
 date: 2026-05-17
 order: 10
 ---
 
-# Lineage 2
+# Обзор
 
 Этот раздел является точкой входа в документацию Lineage 2.
 
