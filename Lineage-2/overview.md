@@ -3,6 +3,7 @@ title: Lineage 2
 description: Start here for Lineage 2 documentation, setup notes, and release updates.
 published: true
 date: 2026-05-17
+order: 10
 ---
 
 # Lineage 2

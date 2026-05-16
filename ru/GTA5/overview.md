@@ -3,6 +3,7 @@ title: GTA5
 description: Стартовый раздел документации GTA5 со ссылками на настройку и обновления.
 published: true
 date: 2026-05-17
+order: 10
 ---
 
 # GTA5

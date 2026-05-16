@@ -3,6 +3,7 @@ title: Getting Started with GTA5
 description: Prepare the basic information needed before working with GTA5 documentation.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Getting Started with GTA5

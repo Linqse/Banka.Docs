@@ -3,6 +3,7 @@ title: Throne and Liberty
 description: Стартовый раздел документации Throne and Liberty со ссылками на настройку и обновления.
 published: true
 date: 2026-05-17
+order: 10
 ---
 
 # Throne and Liberty

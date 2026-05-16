@@ -3,6 +3,7 @@ title: Начало работы с Lineage 2
 description: Подготовьте базовую информацию перед работой с документацией Lineage 2.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Начало работы с Lineage 2

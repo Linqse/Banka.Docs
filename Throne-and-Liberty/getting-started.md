@@ -3,6 +3,7 @@ title: Getting Started with Throne and Liberty
 description: Prepare the basic information needed before working with Throne and Liberty documentation.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Getting Started with Throne and Liberty

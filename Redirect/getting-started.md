@@ -3,6 +3,7 @@ title: Getting Started with Redirect
 description: Prepare the basic information needed before working with Redirect documentation.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Getting Started with Redirect

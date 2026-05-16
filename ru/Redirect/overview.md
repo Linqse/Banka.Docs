@@ -3,6 +3,7 @@ title: Redirect
 description: Стартовый раздел документации Redirect со ссылками на настройку и обновления.
 published: true
 date: 2026-05-17
+order: 10
 ---
 
 # Redirect

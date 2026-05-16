@@ -3,6 +3,7 @@ title: Начало работы с Redirect
 description: Подготовьте базовую информацию перед работой с документацией Redirect.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Начало работы с Redirect

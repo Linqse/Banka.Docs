@@ -3,6 +3,7 @@ title: Начало работы с Throne and Liberty
 description: Подготовьте базовую информацию перед работой с документацией Throne and Liberty.
 published: true
 date: 2026-05-17
+order: 20
 ---
 
 # Начало работы с Throne and Liberty

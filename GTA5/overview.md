@@ -3,6 +3,7 @@ title: GTA5
 description: Start here for GTA5 documentation, setup notes, and release updates.
 published: true
 date: 2026-05-17
+order: 10
 ---
 
 # GTA5
