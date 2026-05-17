@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-description: Prepare the basic information needed before working with Redirect documentation.
+description: Install Redirect, authorize with your account or license key, and prepare it for Parsec.
 published: true
 date: 2026-05-17
 order: 20
@@ -8,21 +8,27 @@ order: 20
 
 # Getting Started
 
-Use this page to prepare the information needed before configuring or documenting Redirect.
+Use this page to launch Redirect and authorize the application before connecting through Parsec.
 
 ## Before You Start
 
-- Confirm the current product version or target environment.
-- Check that the required accounts, servers, or admin panels are available.
-- Collect relevant configuration values, screenshots, logs, or user-facing messages.
+- Download the Redirect archive.
+- Make sure Parsec is used for the remote connection.
+- Prepare your Banka account credentials or the license key received after purchase.
 
-## Basic Steps
+## Steps
 
-1. Open the [product overview](overview.md).
-2. Identify the scenario you need to document or configure.
-3. Add a dedicated guide for repeatable workflows.
-4. Record release-specific changes in the [changelog](Changelogs/2026-05-17.md).
+1. Extract the archive to a separate folder.
+2. Run the `.exe` file.
+3. In the authorization window, sign in to your account or enter the license key.
+4. Wait for successful authorization.
+5. Connect to the same computer through Parsec.
 
 ## Result
 
-The Redirect section has a stable entry point, a preparation checklist, and a changelog location.
+Redirect is ready to use with the Parsec session.
+
+## Important
+
+- Run Redirect on the same computer that you connect to remotely through Parsec.
+- Other remote access tools are not supported at the moment.

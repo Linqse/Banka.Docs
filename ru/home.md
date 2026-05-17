@@ -1,6 +1,6 @@
 ---
 title: Документация
-description: Разделы документации для Lineage 2, Redirect, GTA5 и Throne and Liberty.
+description: Разделы документации для Redirect и GTA5.
 published: true
 date: 2026-05-17
 order: 0
@@ -12,7 +12,5 @@ order: 0
 
 ## Продукты
 
-- [Lineage 2](Lineage-2/overview.md)
 - [Redirect](Redirect/overview.md)
 - [GTA5](GTA5/overview.md)
-- [Throne and Liberty](Throne-and-Liberty/overview.md)
